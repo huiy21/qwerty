@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kirito's Elucidator
+* source:	https://sketchfab.com/3d-models/kiritos-elucidator-141e0934e65743f6b01aa9c311d7b977
+* author:	Astrien (https://sketchfab.com/Astrien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kirito's Elucidator" (https://sketchfab.com/3d-models/kiritos-elucidator-141e0934e65743f6b01aa9c311d7b977) by Astrien (https://sketchfab.com/Astrien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
