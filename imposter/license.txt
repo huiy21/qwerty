@@ -1,0 +1,11 @@
+Model Information:
+* title:	imposter
+* source:	https://sketchfab.com/3d-models/imposter-9d46fea51c654f8c87360de974ec3049
+* author:	omtay (https://sketchfab.com/omtay)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "imposter" (https://sketchfab.com/3d-models/imposter-9d46fea51c654f8c87360de974ec3049) by omtay (https://sketchfab.com/omtay) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
