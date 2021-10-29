@@ -1,0 +1,11 @@
+Model Information:
+* title:	Among Us Storage Box (Blend)
+* source:	https://sketchfab.com/3d-models/among-us-storage-box-blend-e180a6fb05b3497994328d523da72e46
+* author:	disrespect (https://sketchfab.com/disrespect)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Among Us Storage Box (Blend)" (https://sketchfab.com/3d-models/among-us-storage-box-blend-e180a6fb05b3497994328d523da72e46) by disrespect (https://sketchfab.com/disrespect) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
